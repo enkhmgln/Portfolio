@@ -4,7 +4,7 @@ import React from "react";
 
 const Form = () => {
   return <div className="form">
-    <form>
+    <form method="POST" data-netlify="true">
       <label>Нэрээ оруулна уу.</label>
       <input type='text'></input>
       <label>И-Мэйл хаягаа оруулна уу.</label>
