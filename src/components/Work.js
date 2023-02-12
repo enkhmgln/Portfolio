@@ -1,3 +1,4 @@
+import React from "react";
 import "./WorkCardStyles.css";
 import WorkCardData from '../components/WorkCradData'
 import WorkCard from '../components/WorkCard';

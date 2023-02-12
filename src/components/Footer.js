@@ -26,8 +26,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="right">
-        <h4>About the company</h4>
-        <p>This is me Enkh-amgalan. CEO & Founder of Syntax solutions. I enjoy discussing new projects and design challenges
+        <h4>Миний тухай</h4>
+        <p>Намайг Н.Энх-амгалан гэдэг. Би 2004,05,07нд Ховд аймагт төрсөн. Одоогоор Улаанбаатар хотод ажиллаж амьдарч байгаа билээ.
         </p>
         <div className="social">
         <a href="https://www.facebook.com/Real.Kaguya">

@@ -7,7 +7,7 @@ const PricingCard = () => {
       <div className="card">
         <h3>- Basic -</h3>
         <span className="bar"></span>
-        <p className="btc">$ 100 </p>
+        <p className="btc"> 100K ₮</p>
         <p>- 3 days -</p>
         <p>- 3 pages -</p>
         <p>- Featured -</p>
@@ -17,7 +17,7 @@ const PricingCard = () => {
       <div className="card">
         <h3>- Premium -</h3>
         <span className="bar"></span>
-        <p className="btc">$ 200 </p>
+        <p className="btc"> 200K ₮ </p>
         <p>- 5 days -</p>
         <p>- 8 pages -</p>
         <p>- Featured -</p>
@@ -27,7 +27,7 @@ const PricingCard = () => {
       <div className="card">
         <h3>- Business -</h3>
         <span className="bar"></span>
-        <p className="btc">$ 300 </p>
+        <p className="btc"> 300K ₮ </p>
         <p>- 7 days -</p>
         <p>- 10 pages -</p>
         <p>- Featured -</p>

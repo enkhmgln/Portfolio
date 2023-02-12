@@ -5,15 +5,15 @@ import React from "react";
 const Form = () => {
   return <div className="form">
     <form>
-      <label>Your name</label>
+      <label>Нэрээ оруулна уу.</label>
       <input type='text'></input>
-      <label>Email</label>
+      <label>И-Мэйл хаягаа оруулна уу.</label>
       <input type="email"></input>
-      <label>Subject</label>
+      <label>Ямар шалтгаанаар холбогдож байгаа вэ?</label>
       <input type='text'></input>
-      <label>Message</label>
+      <label>Дэлгэрэнгүй мэдээлэл бичнэ үү.</label>
       <textarea rows='6' placeholder="Type your message here" />
-      <button className="btn">Submit</button>
+      <button className="btn">Илгээх</button>
       
     </form>
   </div>;

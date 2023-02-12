@@ -1,5 +1,5 @@
 import "./HeroImgStyles.css";
-import introImg from '../assets/intro-bg.jpg'
+import introImg from '../assets/intro.jpg'
 
 import React from "react";
 import { Link } from "react-router-dom";
@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const HeroImg = () => {
   return <div className="hero">
     <div className="mask">
-      <img className="into-img" src={introImg} alt='Одоогоор зураг байхгүй байна..'/>
+      <img className="intro-img" src={introImg} alt='Одоогоор зураг байхгүй байна..'/>
     </div>
     <div className="content">
       <p>HI, IM ENKHEE</p>

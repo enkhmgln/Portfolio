@@ -20,7 +20,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: 'web bla bla bla bla bla',
-        text: 'Dynamic web design bitch',
+        text: 'Dynamic web',
         view: 'https://github.com/enkhmgln/movieweb'
     },
 ]
