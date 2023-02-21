@@ -7,21 +7,21 @@ import pro3 from '../assets/project3.png'
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: 'Ecommerce website design',
-        text: 'suidghsdugiehweiu9ghweougwge',
-        view: 'https://github.com/enkhmgln/portfolio'
+        title: 'Trippy travel web',
+        text: 'My first Travel web',
+        view: 'https://trippymn.netlify.app/'
     },
     {
         imgsrc: pro2,
-        title: 'Movie website design',
-        text: 'movie bla bla nla bl a bla',
-        view: 'https://github.com/enkhmgln/enkhmgln.github.io'
+        title: 'Trippy travel web',
+        text: 'My first Travel web',
+        view: 'https://trippymn.netlify.app/'
     },
     {
         imgsrc: pro3,
-        title: 'web bla bla bla bla bla',
-        text: 'Dynamic web',
-        view: 'https://github.com/enkhmgln/movieweb'
+        title: 'Trippy travel web',
+        text: 'My first Travel web',
+        view: 'https://trippymn.netlify.app/'
     },
 ]
 
